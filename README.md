@@ -1,3 +1,4 @@
+Commit
 #Starter Web Project
 ## Introduction
 This is a simple website project for showing how to use Git and Github together.
@@ -7,3 +8,5 @@ This is example to use
 
 teetet
 ## How to Contribute
+ff
+dd
