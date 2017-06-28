@@ -12,3 +12,5 @@ teetet
 ## How to Contribute
 ff
 dd
+### Copyright
+2014 Git.Training.
