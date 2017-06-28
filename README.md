@@ -1,3 +1,4 @@
+Adding a line for rebasing example
 Third
 Second
 Commit
