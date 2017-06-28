@@ -1,3 +1,4 @@
+changes from master branch
 Adding a line for rebasing example
 more changes from my feature branch too
 Third
